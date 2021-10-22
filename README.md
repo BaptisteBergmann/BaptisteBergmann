@@ -1,4 +1,4 @@
-### Hey,I'm [Baptiste!]()<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey, I'm Baptiste! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <img src = 'https://github.com/BaptisteBergmann/BaptisteBergmann/blob/main/img/owlIcon.png?raw=true' alt = 'add render code' align='right' width="250"/>
