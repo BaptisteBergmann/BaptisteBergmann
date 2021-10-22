@@ -18,7 +18,7 @@ Welcome to GitHub. You'l see there most of my work and research.
 
 <details>
   <summary>Personal detail</summary>
-  <br>
+	
 * 🎹	Keyboard enthousiat
 * 📚	Reading a lot of Weebtoon
 * 🚗	Car enthousiast
